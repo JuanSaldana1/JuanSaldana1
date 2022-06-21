@@ -8,11 +8,11 @@
 
 ## Here are my stats
 
-![JuanSaldana1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSaldana1&theme=onedark&show_icons=true&include_all_commits=true)
+![JuanSaldana1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSaldana1&theme=onedark&show_icons=true&include_all_commits=true&disable_animations=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSaldana1&langs_count=6&theme=onedark&show_icons=true)](https://github.com/JuanSaldana1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSaldana1&langs_count=6&theme=onedark&show_icons=true&disable_animations=false)](https://github.com/JuanSaldana1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanSaldana1&repo=TFGWPF&theme=onedark&show_icons=true)](https://github.com/JuanSaldana1/TFGWPF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanSaldana1&repo=TFGWPF&theme=onedark&show_icons=true&disable_animations=false)](https://github.com/JuanSaldana1/TFGWPF)
 
 ### Frontend development
 
