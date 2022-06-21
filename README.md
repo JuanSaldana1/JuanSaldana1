@@ -32,4 +32,4 @@
 
 - Languages
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](<https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)>) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/technetwork/java/overview/index.html) [![Python](https://img.shields.io/badge/Python-0072C6?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![PHP](https://img.shields.io/badge/PHP-0072C6?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](<https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)>) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/es/) [![Python](https://img.shields.io/badge/Python-0072C6?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![PHP](https://img.shields.io/badge/PHP-0072C6?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
