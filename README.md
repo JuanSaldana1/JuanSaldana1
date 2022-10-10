@@ -2,6 +2,8 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=JuanSaldana1&color=green&style=flat-square)
 
+[![jsaldana's 42 stats](https://badge42.vercel.app/api/v2/cl92h2f1300590gmkrd68jrxq/stats?cursusId=21&coalitionId=175)](https://github.com/JaeSeoKim/badge42)
+
 ## Contact
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saldana.juan.2002@gmail.com) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-salda%C3%B1a-rived-62a31a1b9/) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/juan-salda%C3%B1a-rived-62a31a1b9/)
